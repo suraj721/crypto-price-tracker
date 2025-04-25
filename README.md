@@ -34,4 +34,9 @@ crypto-price-tracker/
 │   ├── App.jsx         
 │   ├── index.css 
 │   └── index.js          
-        
+
+---
+
+## Video
+
+- **link** : https://drive.google.com/file/d/1RPq_AdmjUQ5c0D4zU-Xk5NtGvhq1-85Z/view?usp=sharing
